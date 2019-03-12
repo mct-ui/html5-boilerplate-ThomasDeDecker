@@ -10,6 +10,8 @@ html {
     font-family: "Helvetica Neue", Helvetica, arial, sans-serif;
     color: #111;
     padding: 24px 24px 0;
+    -webkit-font-smoothing: antialised;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 /*
